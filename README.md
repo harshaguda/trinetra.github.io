@@ -6,8 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Briefly about my projects
 
-### Riggu -
-Socially Interactive RobotIt is a socially interactive robot with capabilities like face recognition, voice recognitionand responding to some basic gestures with Raspberry Pi as its brain.
+### Riggu -Socially Interactive Robot
+RIGGU is a Semi Humanoid Interactive bot which is developed for different applications such as hospitality, treating autism, assisting aged people, etc. Semi-Humanoid robots are being widely used in applications ranging from household to commercial purposes. This paper discusses about development of a semi-humanoid robot platform for speech and image recognition, navigation based on Robot Operating System (ROS) which allows the users to interface the robot developed to add extra peripherals which further gives the scope for development. RIGGU is integrated with features such as speech recognition and synthesis, facial and object recognition and navigation.
 ### Quadcopter
 It can autonomously navigate using GPS, carry payloads, do survelliancecurrently working on swarming of three quadcopters.3.Four wheel driveDesign of algorithm which can help robot to navigate autonomously andgetting its position from a fixed reference using odometry techniques
 ### August 2017 - March 2017 Manual Robot for Robocon 
