@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/harshavardhanguda/harshava
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## Briefly about my projects
+# Briefly about my projects
 
 ### Riggu -Socially Interactive Robot
 RIGGU is a Semi Humanoid Interactive bot which is developed for different applications such as hospitality, treating autism, assisting aged people, etc. Semi-Humanoid robots are being widely used in applications ranging from household to commercial purposes. This paper discusses about development of a semi-humanoid robot platform for speech and image recognition, navigation based on Robot Operating System (ROS) which allows the users to interface the robot developed to add extra peripherals which further gives the scope for development. RIGGU is integrated with features such as speech recognition and synthesis, facial and object recognition and navigation.
