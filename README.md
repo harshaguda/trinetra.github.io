@@ -1,4 +1,4 @@
-Resume [link](https://drive.google.com/open?id=1JXQZv25PaiI0OQA5w9fvE2rqRlA9oaS1)
+[Resume](https://drive.google.com/open?id=1JXQZv25PaiI0OQA5w9fvE2rqRlA9oaS1)
 # Briefly about my projects
 
 ### Riggu -Socially Interactive Robot
