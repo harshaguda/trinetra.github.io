@@ -7,7 +7,7 @@
 
 Hey, I am Harsha Vardhan Guda. You can find my resume [here](https://drive.google.com/open?id=1JXQZv25PaiI0OQA5w9fvE2rqRlA9oaS1)
 I am doing my Under Graduation in Electronics and Communication in National Institue of Technology Calicut. 
-I am enthusiastic about robotics and machine learning, and also an active member of Robotics Interest Group, NIT Calicut[RIG-NITC](http://www.rignitc.com/team-rig-nitc/)
+I am enthusiastic about robotics and machine learning, and also an active member of Robotics Interest Group, NIT Calicut [RIG-NITC](http://www.rignitc.com/team-rig-nitc/)
 # Briefly about my projects
 
 ### Riggu -Socially Interactive Robot
