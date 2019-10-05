@@ -1,4 +1,4 @@
-<img src="images/Emoticons/cool.png" alt="hi" class="inline"/>
+<img src="harsha.jpg" alt="harsha" height = "480" width = "640" class="inline"/>
 [Resume](https://drive.google.com/open?id=1JXQZv25PaiI0OQA5w9fvE2rqRlA9oaS1)
 # Briefly about my projects
 
